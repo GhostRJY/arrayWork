@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\step_CPP_Projects\ArrayFunctions\arrayFunctions\main.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  arrayFunctions.vcxproj -> D:\step_CPP_Projects\ArrayFunctions\arrayFunctions\x64\Debug\arrayFunctions.exe

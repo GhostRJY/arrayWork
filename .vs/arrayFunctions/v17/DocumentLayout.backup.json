@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\step_CPP_Projects\\ArrayFunctions\\arrayFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F9B00E-904E-499C-B04D-D9CA0C643C3A}|arrayFunctions.vcxproj|D:\\step_CPP_Projects\\ArrayFunctions\\arrayFunctions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95F9B00E-904E-499C-B04D-D9CA0C643C3A}|arrayFunctions.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\step_CPP_Projects\\ArrayFunctions\\arrayFunctions\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\step_CPP_Projects\\ArrayFunctions\\arrayFunctions\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T18:58:31.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
